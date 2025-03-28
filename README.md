@@ -25,7 +25,7 @@ streamlit run application.py
 Video demo which includes testing with the question mentioned is displayed below:
 
 <video width="640" height="480" controls>
-  <source src="App Video.mp4" type="video/mp4">
+  <source src="http://github.com/adarshmm/Personalized-AI--VoiceBot/blob/main/App%20Demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
